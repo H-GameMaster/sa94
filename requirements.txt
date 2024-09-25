@@ -1,7 +1,8 @@
-streamlit~=1.38.0
+upstreamlit~=1.38.0
 playsound~=1.2.2
 translate~=3.6.1
 gTTS~=2.5.3
 google-generativeai
 speechrecognition
+setuptools
 pyaudio
