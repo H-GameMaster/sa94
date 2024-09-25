@@ -4,3 +4,4 @@ translate~=3.6.1
 gTTS~=2.5.3
 google-generativeai
 speechrecognition
+pyaudio
